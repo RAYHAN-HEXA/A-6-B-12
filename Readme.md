@@ -115,3 +115,8 @@ console.log("My name is " + name + " and I am " + age + " years old.");
 console.log(`My name is ${name} and I am ${age} years old.`);
 
 
+Difference:
+
+Concatenation with + is messy.
+
+Template literals are easier, cleaner, and allow multi-line.                                                           
